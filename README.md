@@ -1,0 +1,1 @@
+Uma série de exercícios de loop feito em while e for
