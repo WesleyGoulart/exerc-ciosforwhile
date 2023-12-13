@@ -3,7 +3,7 @@
 /*
 const n = 5
 let x = 1
-let soma = 1
+let soma = 0
 
 
 while (x < n) {
@@ -14,10 +14,9 @@ console.log(soma)
 */
 
 const n = 5
-soma = 1
+soma = 0
 
 for (let x = 1; x <= n; x++){
     soma = soma + 1/x
-    console.log(soma)
 }
 console.log(soma)
