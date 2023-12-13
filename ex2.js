@@ -7,9 +7,8 @@ let produto
 while (y <= 10) {
     while (x <= 10) {
         produto = x * y
-        console.log(produto)
+        console.log(`${x} x ${y} = ${produto}`)
         x++
-        console.log(`1x: ${x}, y:${y}`)
     }
     y++
     x = 0
